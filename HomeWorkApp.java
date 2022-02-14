@@ -7,6 +7,7 @@ public class HomeWorkApp {
             printColor();
             compareNumbers();
         }
+        
         public static void printThreeWords()
         {
             System.out.println("метод printThreeWords()");
