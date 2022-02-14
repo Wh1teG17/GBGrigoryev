@@ -1,5 +1,9 @@
 package ru.geekbrains.lesson1;
-
+/**
+* @name Homework 1
+* @author Grigoryev
+* @date 14.02.2022
+ * */
 public class HomeWorkApp {
         public static void main(String[] args) {
             printThreeWords();
